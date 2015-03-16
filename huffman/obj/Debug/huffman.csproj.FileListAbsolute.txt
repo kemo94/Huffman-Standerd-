@@ -1,0 +1,39 @@
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\bin\Debug\huffman.exe.config
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\bin\Debug\huffman.exe
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\bin\Debug\huffman.pdb
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\MainWindow.baml
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\MainWindow.g.cs
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\App.g.cs
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman_MarkupCompile.cache
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.g.resources
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.Properties.Resources.resources
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.csproj.GenerateResource.Cache
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.exe
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.pdb
+D:\study\FCI\3rd year\1'st\Multimedia\huffman\huffman\obj\Debug\huffman.csprojResolveAssemblyReference.cache
+E:\GethUb\Huffman (Standerd)\huffman\bin\Debug\huffman.exe.config
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.exe
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.pdb
+E:\GethUb\Huffman (Standerd)\huffman\bin\Debug\huffman.exe
+E:\GethUb\Huffman (Standerd)\huffman\bin\Debug\huffman.pdb
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.csprojResolveAssemblyReference.cache
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\MainWindow.baml
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\MainWindow.g.cs
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\App.g.cs
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman_MarkupCompile.cache
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.g.resources
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.Properties.Resources.resources
+E:\GethUb\Huffman (Standerd)\huffman\obj\Debug\huffman.csproj.GenerateResource.Cache
+E:\GethUb\Huffman (Standerd) C#\huffman\bin\Debug\huffman.exe.config
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.exe
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.pdb
+E:\GethUb\Huffman (Standerd) C#\huffman\bin\Debug\huffman.exe
+E:\GethUb\Huffman (Standerd) C#\huffman\bin\Debug\huffman.pdb
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.csprojResolveAssemblyReference.cache
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\MainWindow.baml
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\MainWindow.g.cs
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\App.g.cs
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman_MarkupCompile.cache
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.g.resources
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.Properties.Resources.resources
+E:\GethUb\Huffman (Standerd) C#\huffman\obj\Debug\huffman.csproj.GenerateResource.Cache
